@@ -5,4 +5,4 @@
 
 *If any problems, please contact me at r1228240468@gmail.com. (diaohw@mail.dlut.edu.cn is deprecated)*
 
-Coming soon! We will release it before the beginning of August.
+Coming soon! Sorry for the late release.
