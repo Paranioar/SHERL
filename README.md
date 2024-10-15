@@ -7,11 +7,11 @@
 
 ## Introduction
 
-**The framework of SHERL:**
+We propose an innovative strategy called **SHERL** for resource-limited scenarios. It decouples the entire adaptation into two successive and complementary processes. In the early route, intermediate outputs are consolidated via an anti-redundancy operation, enhancing their compatibility for subsequent interactions; thereby in the late route, utilizing minimal late pre-trained layers could alleviate the peak demand on memory overhead and regulate these fairly flexible features into more adaptive and powerful representations for new domains.   
 
-<img src="./0-docs/application.png" width = "100%" height="50%">
+**The framework and applications of SHERL:**   
 
-we propose an innovative METL strategy called SHERL for resource-limited scenarios to decouple the entire adaptation into two successive and complementary processes. In the early route, intermediate outputs are consolidated via an anti-redundancy operation, enhancing their compatibility for subsequent interactions; thereby in the late route, utilizing minimal late pre-trained layers could alleviate the peak demand on memory overhead and regulate these fairly flexible features into more adaptive and powerful representations for new domains.
+<img src="./0-docs/application.png" width="90%" height="85%">
 
 ## Task & Model Details
 
