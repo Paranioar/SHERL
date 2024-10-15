@@ -1,0 +1,4 @@
+source /opt/conda/bin/activate /opt/conda/envs/MDETR
+# CUDA_VISIBLE_DEVICES=0,1 python -m torch.distributed.launch --nproc_per_node=2 --master_port 9881 --use_env main.py --dataset_config configs/refcoco+.json --batch_size 4 --resume runs/refcoco+_sherl_nowd/checkpoint.pth --ema --eval
+# CUDA_VISIBLE_DEVICES=0,1 python -m torch.distributed.launch --nproc_per_node=2 --master_port 9882 --use_env main.py --dataset_config configs/refcoco+.json --batch_size 4 --resume runs/refcoco+_sherl_nowd/checkpoint.pth --ema --eval --test --test_type testA
+CUDA_VISIBLE_DEVICES=0,1 python -m torch.distributed.launch --nproc_per_node=2 --master_port 9883 --use_env main.py --dataset_config configs/refcoco+.json --batch_size 4 --resume runs/refcoco+_sherl_nowd/checkpoint.pth --ema --eval --test --test_type testB

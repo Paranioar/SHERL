@@ -1,0 +1,1 @@
+bash scripts/side_transformers_gqa_test.sh '0,1,2,3' snap/gqa/gqa_r2@9595 9693 4 2

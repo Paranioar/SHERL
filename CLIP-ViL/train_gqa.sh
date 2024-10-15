@@ -1,0 +1,1 @@
+bash scripts/side_transformers_gqa_train.sh '0,1,2,3' gqa_2 9593 4 2

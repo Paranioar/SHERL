@@ -1,0 +1,1 @@
+bash scripts/side_transformers_vqa_test.sh '0,1,2,3' snap/vqa/vqa_r2@9595 9690 4 2

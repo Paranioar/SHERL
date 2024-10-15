@@ -1,0 +1,1 @@
+bash scripts/side_transformers_vqa_train.sh '0,1,2,3' vqa_2 9590 4 2

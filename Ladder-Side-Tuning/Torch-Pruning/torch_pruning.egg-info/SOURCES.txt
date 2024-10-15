@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+torch_pruning/__init__.py
+torch_pruning/dependency.py
+torch_pruning/utils.py
+torch_pruning.egg-info/PKG-INFO
+torch_pruning.egg-info/SOURCES.txt
+torch_pruning.egg-info/dependency_links.txt
+torch_pruning.egg-info/requires.txt
+torch_pruning.egg-info/top_level.txt
+torch_pruning/prune/__init__.py
+torch_pruning/prune/strategy.py
+torch_pruning/prune/structured.py
+torch_pruning/prune/unstructured.py
